@@ -10,5 +10,6 @@ Make a file called "hi.html" containing this	Use your a Web browser to open the 
 <BODY>
    <H1>Hi</H1>
    <P>Welcome to the cutural change in the IT industry</P> 
+   <P>First commit</P> 
 </BODY>
 </HTML>
